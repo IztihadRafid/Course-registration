@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "C Programming",
+      "description": "Learn the fundamentals of C programming language.",
+      "price": 99.99,
+      "credit_hour": 3,
+      "image": "./../src/assets/C prog.png"
+    },
+    {
+      "id": 2,
+      "title": "Algorithm Design and Analysis",
+      "description": "Master algorithms and their analysis for efficient problem-solving.",
+      "price": 129.99,
+      "credit_hour": 4,
+      "image": "./../src/assets/Algorithm.png"
+    },
+    {
+      "id": 3,
+      "title": "C++ Programming",
+      "description": "Explore the object-oriented programming paradigm with C++.",
+      "price": 119.99,
+      "credit_hour": 3,
+      "image": "./../src/assets/C++.png"
+    },
+    {
+      "id": 4,
+      "title": "Data Structures",
+      "description": "Understand the implementation and usage of common data structures.",
+      "price": 149.99,
+      "credit_hour": 4,
+      "image": "./../src/assets/DS.png"
+    },
+    {
+      "id": 5,
+      "title": "Python Programming",
+      "description": "Get hands-on experience with Python programming language.",
+      "price": 109.99,
+      "credit_hour": 3,
+      "image": "./../src/assets/Python.png"
+    },
+    {
+      "id": 6,
+      "title": "Software Engineering Principles",
+      "description": "Learn best practices and principles in software engineering.",
+      "price": 159.99,
+      "credit_hour": 4,
+      "image": "./../src/assets/Software.png"
+    },
+    {
+      "id": 7,
+      "title": "AWS Cloud Computing",
+      "description": "Gain expertise in Amazon Web Services (AWS) for cloud computing.",
+      "price": 189.99,
+      "credit_hour": 5,
+      "image": "./../src/assets/AWS.png"
+    },
+    {
+      "id": 8,
+      "title": "Problem Solving in Programming",
+      "description": "Develop problem-solving skills through programming challenges.",
+      "price": 109.99,
+      "credit_hour": 3,
+      "image": "./../src/assets/IT.png"
+    },
+    {
+      "id": 9,
+      "title": "SQL Fundamentals",
+      "description": "Master the basics of Structured Query Language (SQL) for database management.",
+      "price": 129.99,
+      "credit_hour": 4,
+      "image": "./../src/assets/SQL.png"
+    }
+  ]
