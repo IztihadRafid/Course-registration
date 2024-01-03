@@ -1,7 +1,7 @@
 import React from 'react';
 import Bookmark from '../Bookmark/Bookmark';
 
-const Bookmarks = ({bookmarks}) => {
+const Bookmarks = ({bookmarks,creditHours}) => {
     return (
         <div className='w-1/3'>
             <h1>Courses: {bookmarks.length}</h1>
@@ -9,6 +9,9 @@ const Bookmarks = ({bookmarks}) => {
             {
                 bookmarks.map((bookmark,idx)=><Bookmark key={idx} bookmark={bookmark}></Bookmark>)
             }
+            <div className='p-5'>
+                <h2 className='text-xl font-semibold'>Total Credit Hour: {creditHours}hr</h2>
+            </div>
         </div>
     );
 };
